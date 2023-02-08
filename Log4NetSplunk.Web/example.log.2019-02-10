@@ -1,0 +1,166 @@
+INFO 10 HomeController - Index is called
+DEBUG 10 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 16 HomeController - Contact
+DEBUG 16 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 8 HomeController - About
+DEBUG 8 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 15 HomeController - Index is called
+DEBUG 15 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 12 HomeController - Index is called
+DEBUG 12 HomeController - ["Cache-Control","Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 5 HomeController - Index is called
+DEBUG 5 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 6 HomeController - About
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 5 HomeController - Contact
+DEBUG 5 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 5 HomeController - Index is called
+DEBUG 5 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 5 serilog - "Index" is called
+INFO 5 serilog - "About" is called
+INFO 5 serilog - "Contact" is called
+INFO 9 serilog - "Index" is called
+INFO 6 serilog - "Index" is called
+DEBUG 6 serilog - "[\"Connection\",\"Accept\",\"Accept-Encoding\",\"Accept-Language\",\"Cookie\",\"Host\",\"User-Agent\",\"Upgrade-Insecure-Requests\",\"DNT\"]"
+INFO 16 serilog - "About" is called
+DEBUG 16 serilog - "[\"Connection\",\"Accept\",\"Accept-Encoding\",\"Accept-Language\",\"Cookie\",\"Host\",\"Referer\",\"User-Agent\",\"Upgrade-Insecure-Requests\",\"DNT\"]"
+INFO 15 serilog - "Contact" is called
+DEBUG 15 serilog - "[\"Connection\",\"Accept\",\"Accept-Encoding\",\"Accept-Language\",\"Cookie\",\"Host\",\"Referer\",\"User-Agent\",\"Upgrade-Insecure-Requests\",\"DNT\"]"
+INFO 9 serilog - "Index" is called
+DEBUG 9 serilog - "[\"Connection\",\"Accept\",\"Accept-Encoding\",\"Accept-Language\",\"Cookie\",\"Host\",\"Referer\",\"User-Agent\",\"Upgrade-Insecure-Requests\",\"DNT\"]"
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 6 serilog - "Index" is called
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - About
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 6 serilog - "About" is called
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 8 HomeController - Contact
+DEBUG 8 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 8 serilog - "Contact" is called
+DEBUG 8 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - Index
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 7 serilog - "Index" is called
+DEBUG 7 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - About
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 7 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 8 HomeController - Contact
+DEBUG 8 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 8 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - About
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 7 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Contact
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 15 HomeController - Index
+DEBUG 15 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 15 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - Index
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 7 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 8 HomeController - About
+DEBUG 8 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 8 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 8 HomeController - Contact
+DEBUG 8 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 8 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - Index
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 7 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 11 HomeController - Index
+DEBUG 11 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 11 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Cache-Control","Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Cache-Control", "Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 10 HomeController - Index
+DEBUG 10 HomeController - ["Cache-Control","Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 10 serilog - ["Cache-Control", "Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - About
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 7 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 11 HomeController - Contact
+DEBUG 11 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 11 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 9 HomeController - Index
+DEBUG 9 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 9 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - Index
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 7 HomeController - About
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 10 HomeController - Contact
+DEBUG 10 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 9 HomeController - Index
+DEBUG 9 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 41 HomeController - Index
+DEBUG 41 HomeController - ["Cache-Control","Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 7 HomeController - Index
+DEBUG 7 HomeController - ["Cache-Control","Connection","Pragma","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 10 HomeController - About
+DEBUG 10 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 9 HomeController - Contact
+DEBUG 9 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 16 HomeController - Index
+DEBUG 16 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+INFO 38 HomeController - Index
+DEBUG 38 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 38 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 38 HomeController - Index
+DEBUG 38 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 38 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 42 HomeController - About
+DEBUG 42 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 42 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 44 HomeController - Contact
+DEBUG 44 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 44 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 42 HomeController - Index
+DEBUG 42 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 42 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 5 HomeController - Index
+DEBUG 5 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 5 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 18 HomeController - Index
+DEBUG 18 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 18 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 33 HomeController - About
+DEBUG 33 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 33 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 50 HomeController - Contact
+DEBUG 50 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 50 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 31 HomeController - About
+DEBUG 31 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 31 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 14 HomeController - Index
+DEBUG 14 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 14 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 9 HomeController - About
+DEBUG 9 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 9 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 7 HomeController - Contact
+DEBUG 7 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 7 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
+INFO 6 HomeController - Index
+DEBUG 6 HomeController - ["Connection","Accept","Accept-Encoding","Accept-Language","Cookie","Host","Referer","User-Agent","Upgrade-Insecure-Requests","DNT"]
+DEBUG 6 serilog - ["Connection", "Accept", "Accept-Encoding", "Accept-Language", "Cookie", "Host", "Referer", "User-Agent", "Upgrade-Insecure-Requests", "DNT"]
